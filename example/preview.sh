@@ -1,3 +1,3 @@
 
-julia docs/make.jl
+julia --color=yes docs/make.jl
 firefox docs/build/index.html
